@@ -10,7 +10,7 @@ public class RestController {
 	@GetMapping("/details")
 	public String getDetails() {
 		
-		return "Working fines";
+		return "Springboot project testing";
 	}
 
 }
